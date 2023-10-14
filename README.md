@@ -13,7 +13,9 @@
 An ongoing Computer System student at Sriwijaya University. Passionate about data science, web development, and UI/UX design. Let's collaborate and explore!
  </p>
  
-<img align="center" alt="Coding" width="400" src="https://giffiles.alphacoders.com/350/35043.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://giffiles.alphacoders.com/350/35043.gif">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riz_hai) 
