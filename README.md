@@ -9,13 +9,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=27&pause=1000&color=158377&center=true&vCenter=true&random=false&width=435&lines=Enthusiast+in+;%7C+Data+Science+%7C;%7C+Web+Dev+%7C+;%7C+UI%2FUX+%26+Graphic+Design+%7C" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://giffiles.alphacoders.com/350/35043.gif">
+</p>
+
+  
 <p align="center"> 
 An ongoing Computer System student at Sriwijaya University. Passionate about data science, web development, and UI/UX design. Let's collaborate and explore!
  </p>
  
-<p align="center">
-  <img alt="Coding" width="400" src="https://giffiles.alphacoders.com/350/35043.gif">
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riz_hai) 
